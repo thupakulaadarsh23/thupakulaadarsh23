@@ -120,15 +120,6 @@ Osmania University, Hyderabad | 2021 – 2025
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshthupakula&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshthupakula&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📬 Connect With Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/adarshthupakula](https://linkedin.com/in/adarshthupakula)
