@@ -1,0 +1,76 @@
+{
+  "accuracy": 65.6,
+  "auc": 0.676,
+  "precision": 0.33,
+  "recall": 0.55,
+  "total_employees": 1470,
+  "attrition_count": 327,
+  "attrition_rate": 22.2,
+  "high_risk_count": 343,
+  "overtime_attrition_rate": 36.9,
+  "no_overtime_attrition_rate": 16.2,
+  "cm": [
+    [
+      157,
+      72
+    ],
+    [
+      29,
+      36
+    ]
+  ],
+  "feature_importance": {
+    "OverTime": 0.522,
+    "TotalWorkingYears": 0.372,
+    "Age": -0.367,
+    "WorkLifeBalance": -0.229,
+    "StockOptionLevel": -0.208,
+    "DistanceFromHome": 0.202,
+    "JobSatisfaction": -0.188,
+    "MaritalStatus": 0.159,
+    "NumCompaniesWorked": 0.103,
+    "MonthlyIncome": -0.1,
+    "BusinessTravel": 0.069,
+    "Department": -0.066,
+    "JobLevel": 0.039,
+    "TrainingTimesLastYear": 0.034,
+    "EnvironmentSatisfaction": -0.028,
+    "PercentSalaryHike": -0.011,
+    "YearsAtCompany": 0.006
+  },
+  "dept_attrition": {
+    "Human Resources": {
+      "left": 33,
+      "total": 153,
+      "rate": 21.6
+    },
+    "Research & Development": {
+      "left": 185,
+      "total": 791,
+      "rate": 23.4
+    },
+    "Sales": {
+      "left": 109,
+      "total": 526,
+      "rate": 20.7
+    }
+  },
+  "satisfaction_attrition": {
+    "1": 30.1,
+    "2": 21.4,
+    "3": 17.7,
+    "4": 20.2
+  },
+  "income_attrition": {
+    "(0, 3000]": 0.377,
+    "(3000, 6000]": 0.215,
+    "(6000, 10000]": 0.175,
+    "(10000, 20000]": 0.214
+  },
+  "tenure_attrition": {
+    "<3yr": 24.0,
+    "3-7yr": 27.4,
+    "7-15yr": 20.4,
+    "15+yr": 22.0
+  }
+}
